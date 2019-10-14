@@ -4,6 +4,13 @@
 
 export const environment = {
   production: false
+  // apiKey: "AIzaSyB_Jdm4kAZf4fFNnGhJgYuMjEWjW0JdLeE",
+  // authDomain: "vuejs-http-9d61f.firebaseapp.com",
+  // databaseURL: "https://vuejs-http-9d61f.firebaseio.com",
+  // projectId: "vuejs-http-9d61f",
+  // storageBucket: "vuejs-http-9d61f.appspot.com",
+  // messagingSenderId: "266228849331",
+  // appId: "1:266228849331:web:f12c4e7875fed8977c2ec6"
 };
 
 /*
